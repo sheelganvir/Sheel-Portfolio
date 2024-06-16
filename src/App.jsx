@@ -17,7 +17,7 @@ function App() {
               <img className="about__img" src="./imgs/me3.png" alt="Me" />
             </figure>
             <article className="about__info">
-              <h2 className="about__subtitle">Hello I'm Sheel Ganvir</h2>
+              <h2 className="about__subtitle">Hello I am Sheel Ganvir</h2>
               <h1 className="about__title">MERN-Stack Developer</h1>
               <p className="about__parraf">I am a MERN-stack developer with skills in C & C++. I am currently focused on learning Web Development and Data Structures and Algorithms. I am eager to contribute to a variety of engaging projects and actively seeking internships in Web Development or Software Development. I am excited to collaborate on Web Development projects and actively exploring opportunities to expand my potential.
               </p>
@@ -159,7 +159,7 @@ function App() {
               img="./imgs/projects/file_sharing.png"
               project="File-Sharing-Application"
               repo="https://github.com/sheelganvir/File-Sharing-Application"
-              live="/"
+              live="https://file-sharing-application-thop.vercel.app/"
             />
             <Project
               img="./imgs/projects/Old-portfolio.png"
