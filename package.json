@@ -6,8 +6,7 @@
   "main": "index.js",
   "private": true,
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nestorrig/Portfolio.git"
+    "type": "git"
   },
   "keywords": [
     "JS",
