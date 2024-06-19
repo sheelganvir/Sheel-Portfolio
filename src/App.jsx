@@ -128,19 +128,25 @@ function App() {
               img="./imgs/projects/gmail-clone.png"
               project="Gmail-Clone"
               repo="https://github.com/sheelganvir/Gmail-Clone"
-              live="/"
+              live="https://gmail-ten.vercel.app/"
+            />
+            <Project
+              img="./imgs/projects/file_sharing.png"
+              project="File-Sharing-Application"
+              repo="https://github.com/sheelganvir/File-Sharing-Application"
+              live="https://file-sharing-application-thop.vercel.app/"
             />
             <Project
               img="./imgs/projects/youtube.jpg"
               project="MyYoutube-Clone"
               repo="https://github.com/sheelganvir/MyYoutube-Clone"
-              live=""
+              live="/"
             />
             <Project
               img="./imgs/projects/alignment.png"
               project="Alignment-Checker-ChromeExtension"
               repo="https://github.com/sheelganvir/Alignment-Checker-ChromeExtension"
-              live=""
+              live="https://drive.google.com/file/d/1lh-FvjS8aUPxKaK2cT5tl05duvjaxvtQ/view?usp=drive_link"
             />
             <Project
               img="./imgs/projects/pwskills.png"
@@ -155,12 +161,6 @@ function App() {
               live="https://sheelganvir.github.io/The-Simon-Game/"
             />
             
-            <Project
-              img="./imgs/projects/file_sharing.png"
-              project="File-Sharing-Application"
-              repo="https://github.com/sheelganvir/File-Sharing-Application"
-              live="https://file-sharing-application-thop.vercel.app/"
-            />
             <Project
               img="./imgs/projects/Old-portfolio.png"
               project="Old-portfolio"
