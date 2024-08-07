@@ -125,10 +125,16 @@ function App() {
           </article>
           <div className="projects__box center">
             <Project
-              img="./imgs/projects/gmail-clone.png"
-              project="Gmail-Clone"
-              repo="https://github.com/sheelganvir/Gmail-Clone"
-              live="https://gmail-ten.vercel.app/"
+              img="./imgs/projects/alignment.png"
+              project="Alignment-Checker-ChromeExtension"
+              repo="https://github.com/sheelganvir/Alignment-Checker-ChromeExtension"
+              live="https://drive.google.com/file/d/1lh-FvjS8aUPxKaK2cT5tl05duvjaxvtQ/view?usp=drive_link"
+            />
+            <Project
+              img="./imgs/projects/My-Music-Player.png"
+              project="My-Music-Player"
+              repo="https://github.com/sheelganvir/My-Music-Player"
+              live="https://my-music-player-zeta.vercel.app/"
             />
             <Project
               img="./imgs/projects/file_sharing.png"
@@ -137,17 +143,19 @@ function App() {
               live="https://file-sharing-application-thop.vercel.app/"
             />
             <Project
+              img="./imgs/projects/gmail-clone.png"
+              project="Gmail-Clone"
+              repo="https://github.com/sheelganvir/Gmail-Clone"
+              live="https://gmail-ten.vercel.app/"
+            />
+            
+            <Project
               img="./imgs/projects/youtube.jpg"
               project="MyYoutube-Clone"
               repo="https://github.com/sheelganvir/MyYoutube-Clone"
               live="/"
             />
-            <Project
-              img="./imgs/projects/alignment.png"
-              project="Alignment-Checker-ChromeExtension"
-              repo="https://github.com/sheelganvir/Alignment-Checker-ChromeExtension"
-              live="https://drive.google.com/file/d/1lh-FvjS8aUPxKaK2cT5tl05duvjaxvtQ/view?usp=drive_link"
-            />
+            
             <Project
               img="./imgs/projects/pwskills.png"
               project="PWSkills-Clone"
