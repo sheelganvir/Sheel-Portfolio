@@ -125,6 +125,12 @@ function App() {
           </article>
           <div className="projects__box center">
             <Project
+              img="./imgs/projects/All-About-Space.png"
+              project="All-About-Space"
+              repo="https://github.com/sheelganvir/All-About-Space"
+              live="https://all-about-space.vercel.app/"
+            />
+            <Project
               img="./imgs/projects/alignment.png"
               project="Alignment-Checker-ChromeExtension"
               repo="https://github.com/sheelganvir/Alignment-Checker-ChromeExtension"
