@@ -131,6 +131,19 @@ function App() {
               live="https://all-about-space.vercel.app/"
             />
             <Project
+              img="./imgs/projects/rtn.png"
+              project="DakGhar Parivahan Portal (Prototype)"
+              repo="https://youtu.be/NzhzzeD7AqI"
+              live="https://youtu.be/NzhzzeD7AqI"
+            />
+            
+            <Project
+              img="./imgs/projects/auth.png"
+              project="AuthGuard System"
+              repo="https://github.com/sheelganvir/Authentication-App"
+              live="https://authentication-app-ui-nine.vercel.app/login"
+            />
+            <Project
               img="./imgs/projects/alignment.png"
               project="Alignment-Checker-ChromeExtension"
               repo="https://github.com/sheelganvir/Alignment-Checker-ChromeExtension"
