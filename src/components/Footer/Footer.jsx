@@ -72,6 +72,7 @@ const socialLinks = [
   { href: "https://github.com/sheelganvir", Icon: GithubIcon },
   { href: "https://www.linkedin.com/in/sheel-ganvir/", Icon: LinkedInIcon },
   { href: "https://x.com/sheelganvir", Icon: TwitterIcon },
+  { href: "https://x.com/developers26", Icon: TwitterIcon },
   { href: "https://www.youtube.com/@DebugYaar", Icon: YoutubeIcon },
   { href: "https://www.instagram.com/sheel_ganvir/", Icon: InstagramIcon },
 ];

@@ -18,8 +18,8 @@ function App() {
             </figure>
             <article className="about__info">
               <h2 className="about__subtitle">Hello I am Sheel Ganvir</h2>
-              <h1 className="about__title">MERN-Stack Developer</h1>
-              <p className="about__parraf">I am a MERN-stack developer with skills in C & C++. I am currently focused on learning Web Development and Data Structures and Algorithms. I am eager to contribute to a variety of engaging projects and actively seeking internships in Web Development or Software Development. I am excited to collaborate on Web Development projects and actively exploring opportunities to expand my potential.
+              <h1 className="about__title">MERN-Stack Developer / Data Analyst</h1>
+              <p className="about__parraf">I am a MERN Stack Developer and an aspiring Software Developer with a strong passion for Web Development, Data Analytics, and DevOps. I am actively seeking internships and full-time opportunities to apply my skills, contribute to impactful projects, and grow in the tech industry. 
               </p>
               <button className="button" type="button">
                 <a href="mailto:sheelganvir2805@gmail.com">
@@ -41,12 +41,21 @@ function App() {
                 <img src="./svgs/roles_ux-ui.svg" alt="" />
               </figure>
               <div className="roles__text">
-                <h2>General Front end Developer</h2>
+                <h2>Full-Stack Developer</h2>
                 <p>
-                This role involves a broad array of responsibilities, from
-                  implementing designs and crafting visual components to
-                  overseeing user interaction and collaborating with the
-                  backend.
+                This role involves developing both frontend and backend, managing databases, building APIs, ensuring performance, and collaborating with teams to create seamless web applications.
+                </p>
+              </div>
+            </article>
+            
+            <article className="skills__roles__item bg__3">
+              <figure>
+                <img src="/svgs/roles_responsive.svg" alt="" />
+              </figure>
+              <div className="roles__text">
+                <h2>Data Analyst</h2>
+                <p>
+                This role involves collecting, analyzing, and interpreting data to uncover insights, create reports, optimize decision-making, and support business strategies.
                 </p>
               </div>
             </article>
@@ -55,22 +64,8 @@ function App() {
                 <img src="./svgs/roles_programming.svg" alt="" />
               </figure>
               <div className="roles__text">
-                <h2>Backend Developer</h2>
-                <p>This role involves developing and maintaining server-side logic, databases, and APIs, ensuring performance and scalability, and collaborating with frontend developers.
-                </p>
-              </div>
-            </article>
-            <article className="skills__roles__item bg__3">
-              <figure>
-                <img src="/svgs/roles_responsive.svg" alt="" />
-              </figure>
-              <div className="roles__text">
-                <h2>Responsive Developer</h2>
-                <p>
-                  I specialize in creating designs that seamlessly adjust to
-                  various screen sizes, guaranteeing that the application
-                  appears and operates smoothly across mobile devices, tablets,
-                  and desktop computers.
+                <h2>DevOps Engineer</h2>
+                <p>This role involves automating deployments, managing infrastructure, optimizing CI/CD pipelines, ensuring system reliability, and collaborating with development and operations teams for seamless software delivery.
                 </p>
               </div>
             </article>
@@ -131,12 +126,24 @@ function App() {
               live="https://all-about-space.vercel.app/"
             />
             <Project
+              img="./imgs/projects/BMW.png"
+              project="BMW-Sales-Dashboard"
+              repo="https://github.com/sheelganvir/BMW-Sales-Dashboard"
+              live="https://github.com/sheelganvir/BMW-Sales-Dashboard"
+            />
+            
+            <Project
               img="./imgs/projects/rtn.png"
               project="DakGhar Parivahan Portal (Prototype)"
               repo="https://youtu.be/NzhzzeD7AqI"
               live="https://youtu.be/NzhzzeD7AqI"
             />
-            
+            <Project
+              img="./imgs/projects/OLA.png"
+              project="OLA-DashX"
+              repo="https://github.com/sheelganvir/OLA-DashX"
+              live="https://github.com/sheelganvir/OLA-DashX"
+            />
             <Project
               img="./imgs/projects/auth.png"
               project="AuthGuard System"
