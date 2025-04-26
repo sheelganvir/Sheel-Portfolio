@@ -120,6 +120,12 @@ function App() {
           </article>
           <div className="projects__box center">
             <Project
+              img="./imgs/projects/Imaginify.png"
+              project="Imaginify"
+              repo="https://github.com/sheelganvir/imaginify"
+              live="https://imaginify-by-sheel.vercel.app/"
+            />
+            <Project
               img="./imgs/projects/All-About-Space.png"
               project="All-About-Space"
               repo="https://github.com/sheelganvir/All-About-Space"
